@@ -1,5 +1,5 @@
 #include <iostream>
-#include <array>
+#include <string>
 
 int main() {
     // Agenda con array estatico 5 contactos
