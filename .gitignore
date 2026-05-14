@@ -1,3 +1,12 @@
-#Archivos de compilacion
+# Ignorar ejecutables y archivos de compilación
+bin/
 *.exe
-/bin
+*.o
+*.obj
+
+# Ignorar configuraciones de VSCode (opcional)
+.vscode/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
